@@ -1,0 +1,11 @@
+body {
+    color: white;
+}
+
+.slide {
+    background: black;
+}
+
+.slide-content {
+    width: 900px;
+}
